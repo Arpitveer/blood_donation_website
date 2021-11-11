@@ -35,4 +35,33 @@ steps to run this website on your device.
 
 7->This project is not complete yet. if you want, you can complete it.
 
+info about files 
+
+Profile is user profile html and js.
+
+profile2 is profile user who alert user by sending email.
+
+login for login page.
+
+app.js server code.
+
+db.js  mysql connection.
+
+notes.html and notes.js is to get donors detail page.
+
+strategy.js is for login using passport local strategy.
+
+email.js to send email when user press send email alert . You can add in verify email in starting of creating account (i didn't do this ) .
+
+public is all static stuff for your site.
+
+
+
+
+
+
+
+
+
+
 
