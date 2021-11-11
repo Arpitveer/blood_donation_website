@@ -1,6 +1,7 @@
 # blood_donation_website
 
 steps to run this website on your device.
+
 1->To make this work you need to have node js installed.
 
 1.1->Download repository.
